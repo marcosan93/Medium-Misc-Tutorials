@@ -1,2 +1,4 @@
-# Medium-Misc-Tutorials
-A collection of random tutorials for Medium
+# Medium Tutorials and Code Walkthroughs
+
+### [My Medium Profile Page](https://marco-santos.medium.com/membership)
+Learn more about the code I've written in this repository.
